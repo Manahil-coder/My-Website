@@ -1,0 +1,19 @@
+h1 {
+    color: rgb(66, 252, 66);
+    background-color: gainsboro;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+h2 {
+    color: lightseagreen;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+body {
+    background-color: black;
+    text-align: center;
+}
+#img {
+    font-weight: 20px;
+    font-size: 20px;
+
+
+}
